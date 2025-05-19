@@ -1,0 +1,33 @@
+{
+  "name": "Everforest Dark",
+  "comment": "Tema Everforest Dark para Tilix",
+  "foreground-color": "#D3C6AA",
+  "background-color": "#2F383E",
+  "use-theme-colors": false,
+  "use-highlight-color": false,
+  "highlight-foreground-color": "#FFFFFF",
+  "highlight-background-color": "#2F383E",
+  "use-cursor-color": false,
+  "cursor-foreground-color": "#FFFFFF",
+  "cursor-background-color": "#D3C6AA",
+  "use-badge-color": false,
+  "badge-color": "#D699B6",
+  "palette": [
+    "#4B565C",
+    "#E67E80",
+    "#A7C080",
+    "#DBBC7F",
+    "#7FBBB3",
+    "#D699B6",
+    "#83C092",
+    "#D3C6AA",
+    "#5C6A72",
+    "#F85552",
+    "#8DA101",
+    "#DFA000",
+    "#3A94C5",
+    "#DF69BA",
+    "#35A77C",
+    "#DFDDC8"
+  ]
+}
